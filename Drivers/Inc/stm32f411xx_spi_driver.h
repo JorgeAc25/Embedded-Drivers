@@ -2,7 +2,7 @@
  * stm32f411xx_spi_driver.h
  *
  *  Created on: Aug 6, 2024
- *      Author: Jed
+ *      Author: Jorge Acosta
  */
 
 #ifndef INC_STM32F411XX_SPI_DRIVER_H_
