@@ -2,7 +2,7 @@
  * main.c
  *
  *  Created on: Jul 12, 2024
- *      Author: Jed
+ *      Author: Jorge Acosta
  */
 
 #include "stm32f411xx_gpio_driver.h"
